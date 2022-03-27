@@ -20,3 +20,7 @@ server.route({
       var namaQuery = request.query.nama;
     }
 })
+
+// 3. force migrate HAPI JS
+//   npm run migrate up --no-check-order
+//   npm run migrate down --no-check-order

@@ -1,5 +1,4 @@
-// add new key value in javascript Object:
-
+// 1. add new key value in javascript Object:
 var obj = {
     key1: value1,
     key2: value2

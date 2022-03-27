@@ -6,7 +6,5 @@ var obj = {
 };
 
 // solution
-obj.key3 = "value3";
-
-// or 
+obj.key3 = "value3"; // or
 obj["key3"] = "value3";
